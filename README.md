@@ -22,7 +22,8 @@ This project is a minimal 64-bit ELF assembly application demonstrating integrat
 
 ## Build
 
-Example using FASM and GCC:
+Build with Makefile
+Run the command: 
 
 ```bash
 make
