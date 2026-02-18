@@ -13,6 +13,13 @@ This project is a minimal 64-bit ELF assembly application demonstrating integrat
 * Keyboard input handling (Z resets camera target)
 * Custom struct memory layout for `Camera3D`
 
+## Video
+
+<video width="320" height="240" controls>
+  <source src="./video/simplescreenrecorder-2026-02-18_13.11.57.mkv" type="video/mp4">
+</video>
+
+
 ## Requirements
 
 * Linux x86-64 system
