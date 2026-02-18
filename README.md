@@ -15,7 +15,11 @@ This project is a minimal 64-bit ELF assembly application demonstrating integrat
 
 ## Video
 
-![](./video/simplescreenrecorder-2026-02-18_13.11.57.mov)
+
+https://github.com/user-attachments/assets/fd8334a0-ae44-475f-9d56-c95d4667eb6d
+
+
+
 
 ## Requirements
 
