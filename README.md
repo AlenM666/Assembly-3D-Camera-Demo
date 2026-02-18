@@ -15,10 +15,7 @@ This project is a minimal 64-bit ELF assembly application demonstrating integrat
 
 ## Video
 
-<video width="320" height="240" controls>
-  <source src="./video/simplescreenrecorder-2026-02-18_13.11.57.mkv" type="video/mp4">
-</video>
-
+![](./video/simplescreenrecorder-2026-02-18_13.11.57.mov)
 
 ## Requirements
 
